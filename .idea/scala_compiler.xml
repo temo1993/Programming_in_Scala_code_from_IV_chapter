@@ -3,6 +3,7 @@
   <component name="ScalaCompilerConfiguration">
     <profile name="SBT 1" modules="programming_in_scala_code_from_iv_chapter">
       <option name="postfixOps" value="true" />
+      <option name="implicitConversions" value="true" />
     </profile>
   </component>
 </project>
